@@ -1,0 +1,15 @@
+ {
+  "store": "Jishu Store by BridgeTech Welfare",
+  "items": [
+    {
+      "name": "Demo Extension",
+      "type": "Extension",
+      "link": "https://example.com"
+    },
+    {
+      "name": "Demo Sound Scheme",
+      "type": "Sound Scheme",
+      "link": "https://example.com"
+    }
+  ]
+}
